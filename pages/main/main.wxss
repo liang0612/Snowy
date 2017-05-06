@@ -1,0 +1,5 @@
+/* pages/main/main.wxss */
+.canvas {
+  width: 370px;
+  height: 700px;
+}

@@ -1,0 +1,3 @@
+<view>
+    <image wx:for="{{heartList}}" wx:for-item="heart" animation="{{heart.animationData}}" class="heartimag" src="../../image/{{heart.path}}.png"></image>
+</view>

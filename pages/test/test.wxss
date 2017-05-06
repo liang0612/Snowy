@@ -1,0 +1,5 @@
+/* pages/test/test.wxss */
+.heartimag{
+    width: 30px;
+    height: 24px;
+}

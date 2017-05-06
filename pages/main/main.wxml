@@ -1,0 +1,3 @@
+<view>
+    <canvas canvas-id="canvas" class="canvas" bindtouchstart="clickHandle" />
+</view>
